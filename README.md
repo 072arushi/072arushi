@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on: Machine Learning and Deep Learning 
 - 🌱 I’m currently learning: Web Development
+- 👨‍💻 Portfolio Website: https://072arushi.github.io/portfolio_website/
 - 👯 I’m looking to collaborate on: C++ and Python projects
 - 📫 How to reach me: www.linkedin.com/in/arushi-garg105
 - ⚡ Fun fact: naah none...
